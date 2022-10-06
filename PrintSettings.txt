@@ -1,4 +1,4 @@
-# PrintSettings
+# Print Settings
 
 The accessories 3D printed in this work were created using an Ultimaker S5 printer and Cura slicer. Here some printing recommandations :
 - Select a AA 0.4 mm nozzle and a 0.1 mm layer thickness as it allows a smoother finish of the printed surface.
